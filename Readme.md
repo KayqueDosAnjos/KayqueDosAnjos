@@ -1,5 +1,6 @@
 ### Hello, World!
-- 🖥️ Currently I study Back end in C#    /    Atualmente estudo back end em c#.
+- 🇧🇷 i am Braziliam
+- 🖥️ Currently I study Back end in C#.
 - 🛠️ Pretendo me tornar um Dev full stack, porém com um enfâse maior em backend     /    I intend to become a full stack Dev, but with a greater emphasis on backend.
 - 📩 contate-me no E-mail: kayquesvieiras@icloud.com     /    contact me at email: kayquesvieiras@icloud.com
 
