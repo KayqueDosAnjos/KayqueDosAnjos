@@ -1,5 +1,5 @@
 ### Hello, World!
 - 🇧🇷 I am Braziliam
-- 🖥️ Currently I study mobile development for IOS in Swift#
+- 🖥️ Currently I study and freelance in mobile swift development#
 - contact me at email: kayquesvieiras@icloud.com
 
